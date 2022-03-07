@@ -1,3 +1,4 @@
+<video controls src="video.mp4" alt="Drawing" style="width: 400px;"/>
 <img src="readme.png" alt="drawing" width="800"/>
 
 <!--
@@ -27,5 +28,3 @@ This GitHub repository provides a simulation tool as Supplementary Material to o
 <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-Public/HEAD" target="_blank">Launch tool </a>    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlippok/Notebooks-Public/HEAD)
 
 ###### *Contact support: nlippok@mgh.harvard.edu*
-
-<video controls src="video.mp4" alt="Drawing" style="width: 400px;"/>
