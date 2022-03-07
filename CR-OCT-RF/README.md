@@ -28,4 +28,4 @@ This GitHub repository provides a simulation tool as Supplementary Material to o
 
 ###### *Contact support: nlippok@mgh.harvard.edu*
 
-<video src='video.mp4' width=1800/>
+<video src='video.mp4' width=18000/>
