@@ -1,3 +1,5 @@
+<video src='movie.mov' width=180/>
+
 <img src="readme.png" alt="drawing" width="800"/>
 
 <!--
