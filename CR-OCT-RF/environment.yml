@@ -1,0 +1,11 @@
+name: CR-OCT-RF
+channels:
+  - conda-forge
+dependencies:
+  - python =3
+  - pandas
+  - numpy
+  - matplotlib
+  - IPython
+  - scipy
+  - voila
