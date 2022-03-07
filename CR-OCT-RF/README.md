@@ -1,5 +1,3 @@
-<video src="video.mp4" width=400/>
-
 <img src="readme.png" alt="drawing" width="800"/>
 
 <!--
