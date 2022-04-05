@@ -14,7 +14,7 @@ This GitHub repository provides a simulation tool as Supplementary Material to o
 * Alternatively, a more reliable method to apply the tool is to download and launch the Notebook (`notebook.ipynb`) from your computer within a Jupyter Notebook environment.
   1. All the files in the directory above (`*.ipynb`, `setup.png`) are required to run the simulation. To download the entire repository, simply download the zip archive from this directory by clicking on `archive.zip` and then select **Download** (right side).
   2. Running the Notebook on your computer requires the installation of Jupyter Notebook and Python. We recommend downloading the <a href="https://www.anaconda.com/products/individual" target="_blank">Anaconda</a> package, which is easy and free.  
-  3. To start the Notebook, open `notebook.ipynb` inside a Jupyter Notebook environment and initiate by selecting **Kernel** and then **Restart Kernel & Run All Cells** from the menu. 
+  3. To start the Notebook, open `notebook.ipynb` inside a Jupyter Notebook environment and run the simulation by selecting **Kernel** and then **Restart Kernel & Run All Cells** from the menu. 
 
 <br>
 
