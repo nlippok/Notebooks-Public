@@ -28,4 +28,6 @@ This GitHub repository provides a simulation tool as Supplementary Material to o
 
 <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-Public/HEAD" target="_blank">Launch tool </a>    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlippok/Notebooks-Public/HEAD)
 
+<br>
+
 ###### *Contact: nlippok@mgh.harvard.edu*
