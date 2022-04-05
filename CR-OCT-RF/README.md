@@ -1,4 +1,4 @@
-<img src="readme.png" alt="drawing" width="800"/>
+<img src="readme.png" alt="drawing" width="1000"/>
 
 <!--
 Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
