@@ -8,10 +8,14 @@ Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
 </i>
 -->
 
-This GitHub repository provides a simulation tool as Supplementary Material to our paper entitled *RF Properties of Circular-Ranging OCT Signals*. An interested reader will be able to generate and study CR signals as produced by a monotonically stepped frequency comb source in the RF domain.
+This GitHub repository provides a simulation tool as Supplementary Material to our paper entitled <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-47-7-1903" target="_blank">RF Properties of Circular-Ranging OCT Signals</a>. An interested reader will be able to generate CR signals as produced by a monotonically stepped frequency comb source in the RF domain. The simulation can be initated from an external server (see point 2 below) or run directly on your computer (point 3).
+
 * Watch <a href="https://youtu.be/69HpwpK_YdQ" target="_blank">introduction video</a>.
-* The two links below initiate a simulation based on Jupyter Notebook (Python). Neither knowledge nor installation of Jupyter / Python is required. Starting the server (based on <a href="https://mybinder.org" target="_blank">MyBinder</a>) for the first time can take up to 10 minutes. Please be patient. Occasionally the <a href="https://mybinder.org" target="_blank">MyBinder</a> server has too much traffic. Please try again or try another time in this case.
-* Alternatively, the Notebook (`notebook.ipynb`) can be downloaded and run within a Jupyter environment. Note that all the files in the directory above (`*.ipynb`, `setup.png`) are required to run the simulation. Running the Notebook externally requires the installation of Jupyter Notebook and Python. We recommend downloading the <a href="https://www.anaconda.com/products/individual" target="_blank">Anaconda</a> package, which is free. To download the entire repository, download `CR-OCT-RF_Archive.zip` by clicking on the file and select **Download** (top-right button).
+* The two links below initiate a simulation based on Jupyter Notebook (Python) using an external server. Neither knowledge nor installation of Jupyter / Python is required. The server can be initiated from a computer, tablet or phone. Starting the server (based on <a href="https://mybinder.org" target="_blank">MyBinder</a>) for the first time can take up to 10 minutes. Occasionally the server has too much traffic. Please try again or try another time in this case.
+* The best method to run the simulation is to download and then launch the Notebook (`notebook.ipynb`) from your computer within a Jupyter Notebook environment.
+  1. All the files in the directory above (`*.ipynb`, `setup.png`) are required to run the simulation. To download the entire repository, simply download the zip archive from this directory by clicking on `archive.zip` and select **Download** (right side).
+  2. Running the Notebook on your computer requires the installation of Jupyter Notebook and Python. We recommend downloading the <a href="https://www.anaconda.com/products/individual" target="_blank">Anaconda</a> package, which is easy and free.  
+  3. To start the Notebook, open `notebook.ipynb` inside a Jupyter Notebook environment. Run the simulation by selecting **Kernel** and **Restart Kernel & Run All Cells** from the menu. 
 
 <br>
 
@@ -21,8 +25,9 @@ This GitHub repository provides a simulation tool as Supplementary Material to o
 
 <br>
 
-**Initiate Jupyter Notebook environment and start Notebook manually:**
+**Initiate virtual Jupyter Notebook environment and start simulation manually:**
 
 <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-Public/HEAD" target="_blank">Launch tool </a>    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlippok/Notebooks-Public/HEAD)
+
 
 ###### *Contact: nlippok@mgh.harvard.edu*
