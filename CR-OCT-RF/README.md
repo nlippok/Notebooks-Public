@@ -27,6 +27,6 @@ This GitHub repository provides a simulation tool as Supplementary Material to o
 **Initiate Jupyter Notebook environment and start Notebook manually:**
 
 <a href="https://mybinder.org/v2/gh/nlippok/Notebooks-Public/HEAD" target="_blank">Launch tool </a>    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlippok/Notebooks-Public/HEAD)
-
 <br>
+
 ###### *Contact: nlippok@mgh.harvard.edu*
