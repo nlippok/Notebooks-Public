@@ -10,6 +10,7 @@ Norman Lippok<sup>1,2</sup>, Benjamin J. Vakoc<sup>1,2,3</sup> <br>
 
 This GitHub repository provides a simulation tool as Supplementary Material to our paper entitled <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-47-7-1903" target="_blank">RF Properties of Circular-Ranging OCT Signals</a>. An interested reader will be able to generate CR signals as produced by a monotonically stepped frequency comb source in the RF domain. The simulation can be initated from an external server (see point 2 below) or run directly on your computer (point 3).
 
+
 * Watch <a href="https://youtu.be/69HpwpK_YdQ" target="_blank">introduction video</a>.
 * The two links below initiate a simulation based on Jupyter Notebook (Python) using an external server. Neither knowledge nor installation of Jupyter / Python is required. The server can be initiated from a computer, tablet or phone. Starting the server (based on <a href="https://mybinder.org" target="_blank">MyBinder</a>) for the first time can take up to 10 minutes. Occasionally the server has too much traffic. Please try again or try another time in this case.
 * Alternatively, the best method to run the simulation is to download and then launch the Notebook (`notebook.ipynb`) from your computer within a Jupyter Notebook environment.
