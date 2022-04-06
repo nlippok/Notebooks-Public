@@ -21,7 +21,7 @@ This GitHub repository provides a simulation tool as Supplementary Material to o
 
 **Start fully rendered, self-running simulation:**
 
-<a href="https://mybinder.org/v2/gh/nlippok/Notebooks-Public/HEAD?urlpath=voila%2Frender%2FCR-OCT-RF%2Fnotebook.ipynb" target="_blank">Launch tool </a>    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlippok/Notebooks-Public/HEAD?urlpath=voila%2Frender%2FCR-OCT-RF%2Fnotebook.ipynb)
+<a href="https://mybinder.org/v2/gh/nlippok/Notebooks-Public/HEAD?urlpath=voila%2Frender%2FCR-OCT-RF%2Fnotebook.ipynb" target="_blank">Launch tool </a>    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nlippok/Notebooks-Public/HEAD?urlpath=voila%2Frender%2FCR-OCT-RF%2Fnotebook.ipynb) ###### Updated: April 6, 2022
 
 <br>
 
@@ -31,4 +31,3 @@ This GitHub repository provides a simulation tool as Supplementary Material to o
 
 
 ###### *Contact: nlippok@mgh.harvard.edu* 
-###### Code update: April 6, 2022
