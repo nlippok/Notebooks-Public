@@ -12,7 +12,7 @@ This GitHub repository provides a simulation tool as Supplementary Material to o
 
 1. The two links below initiate a simulation based on Jupyter Notebook (Python) using an external server. Neither knowledge nor installation of Jupyter / Python is required. The server can be initiated from a computer, tablet or phone. Starting the server (based on <a href="https://mybinder.org" target="_blank">MyBinder</a>) for the first time can take up to 10 minutes. Occasionally the server has a lot of traffic. Please try again or another time in this case.
 2. The best method to run the simulation is to download and then launch the Notebook (`notebook.ipynb`) from your computer within a Jupyter Notebook environment.
-    1. All the files in the directory above (`*.ipynb`, `setup.png`) are required to run the simulation. To download the entire repository, simply download       the zip archive from this directory by clicking on `archive.zip` and selecting **Download** (right side).
+    1. All files in this directory (`*.ipynb`, `setup.png`) are required to start the simulation. To download the entire repository, simply download       the zip archive from this directory by clicking on `archive.zip` and selecting **Download** (right side).
     2. Running the Notebook on your computer requires the installation of Jupyter Notebook and Python. We recommend downloading the <a href="https://www.anaconda.com/products/individual" target="_blank">Anaconda</a> package, which is easy and free.  
     3. To start the Notebook, open `notebook.ipynb` inside a Jupyter Notebook environment. Run the simulation by selecting **Kernel** and **Restart Kernel & Run All Cells** from the menu. 
 
